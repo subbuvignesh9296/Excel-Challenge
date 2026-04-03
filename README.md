@@ -1,7 +1,9 @@
 **Healthcare Analysis and Patient Insights**
+
 **📌 Project Overview**
 
 This project focuses on cleaning, transforming, and analyzing a comprehensive healthcare dataset comprising 2,000 patient records. The goal was to consolidate disparate medical data—including hospitalization details and medical examinations—into a centralized master file to derive actionable health insights and risk assessments.
+
 **🛠️ Tools & Technologies**
 
 •	MS Excel: Primary tool for data cleaning, synthesis, and dashboarding.
@@ -9,8 +11,8 @@ This project focuses on cleaning, transforming, and analyzing a comprehensive he
 •	Functions: Utilized X-LOOKUP and V-LOOKUP for complex data merging.
 
 •	Data Visualization: Interactive Excel Dashboards using Donut and Pie charts.
-**📊 Key Features & Analysis**
 
+**📊 Key Features & Analysis**
 
 •	Data Integration: Merged multiple data sources (Customer Names, Medical Examinations, and Hospitalization Details) into a unified dataset.
 •	Metric Engineering: * BMI Calculation: Engineered formulas to calculate Body Mass Index for patient health assessment.
