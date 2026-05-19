@@ -58,7 +58,7 @@
 * Comapre healthcare perfromance metrics.
 * Improved understanding of healthcare operation through visualization.
 
-#**🚀 Project Workflow**
+# **🚀 Project Workflow**
 1. Data Collection
 2. Data cleaning
 3. Data processing
