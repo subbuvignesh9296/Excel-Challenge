@@ -1,8 +1,9 @@
-**Healthcare Analysis and Patient Insights**
+# **🏥 Healthcare Data Analysis Project**
 
-**📌 Project Overview**
+# **📌 Project Overview**
 
-This project focuses on cleaning, transforming, and analyzing a comprehensive healthcare dataset comprising 2,000 patient records. The goal was to consolidate disparate medical data—including hospitalization details and medical examinations—into a centralized master file to derive actionable health insights and risk assessments.
+* This project mainly focuses on healthcare analysis data to idntify patterns, trends, insight that help to improve decision making in healthcare industry. 
+* This analysis include patient records, treatment details, hospital performance and cost using data analytics and visualization techniques.
 
 **🛠️ Tools & Technologies**
 
