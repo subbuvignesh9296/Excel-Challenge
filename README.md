@@ -32,7 +32,7 @@
 * Admission & Discharge Records
    
 # **📊 Key Features & Analysis**
-* ** Data Integration: ** Merged multiple data sources (Customer Names, Medical Examinations, and Hospitalization Details) into a unified dataset.
+* **Data Integration:** Merged multiple data sources (Customer Names, Medical Examinations, and Hospitalization Details) into a unified dataset.
 *  **BMI Calculation:** Engineered formulas to calculate Body Mass Index for patient health assessment.
 * **Risk Categorization**: Implemented diabetic status flags and health metrics to categorize patient risk levels.
 * **Interactive Dashboard:** Developed a visual interface to track:Patient demographic distributions.Health trends and medical habit correlations.Comparative analysis of patient vitals across different categories.
